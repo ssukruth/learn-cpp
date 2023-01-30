@@ -1,0 +1,17 @@
+- logarithm
+- complexity analysis
+- graph traversal: tree & matrix traversal
+- binary search
+- sliding window
+- recursion
+- inverting a binary tree
+- reversing a linked list
+- suffix trees **
+- heaps
+- dyanamic programming
+	- LIS
+	- LCS
+	- LCSub
+	- Coin Change
+- Sorting alog: quick & merge
+

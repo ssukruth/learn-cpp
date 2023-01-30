@@ -1,0 +1,14 @@
+// let's say you've 2 files file1.cpp & file2.cpp and you're building "app"
+
+app:  file1.o fil2.o
+	g++ file1.o file2.o -o math
+
+file1.o: file1.cpp
+	g++ -c file1.cpp
+
+file2.o: file2.cpp
+	g++ -c file2.cpp
+
+clean:
+	rm *.o app
+
